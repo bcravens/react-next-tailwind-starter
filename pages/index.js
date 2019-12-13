@@ -1,5 +1,5 @@
-import React from "react";
-import "../styles/index.css";
+import React from "react"
+import "../styles/index.css"
 
 function Index() {
   // Declare a new state variable, which we'll call "count"
@@ -13,4 +13,4 @@ function Index() {
   );
 }
 
-export default Index;
+export default Index
